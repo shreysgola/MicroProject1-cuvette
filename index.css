@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 70vh;
+    width: 100vw;
+    background-color: #FFCD9E;
+    display: flex;
+    flex-direction: row;
+}
+
+.item {
+    height: 70vh;
+    width: 62vw;
+    background-color: #FFCD9E;
+    display: flex;
+    flex-direction: column;
+}
+
+.item1 {
+    align-items: center;
+    display: flex;
+}
+
+#heading { 
+    border-color: black;
+    margin: 125px 10px 10px 137px;
+    width: 570px;
+    font-size: 39px;
+    text-align: left;
+}
+
+#down1 {
+    margin: 10px 10px 10px 137px;
+    width: 404px;
+    font-size: 20px;
+    text-align: left;
+}
+
+#down2 {
+    margin: 25px 10px 10px 137px;
+    width: 404px;
+    font-size: 17px;
+    font-weight: 1000;
+    text-align: left;
+}
+
+#down3 {
+    margin: 1px 1px 1px 1px;
+    padding: 5px 0px 4px 134px;
+    border: 10px;
+}
+
+#inputarea {
+    border-radius: 10px;
+    padding: 10px 20px 10px 10px;
+    color: rgb(81, 81, 81);
+    margin: 0px 5px 0px 0px;
+}
+
+#inputbtn {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+#down4 {
+    margin: 1px 1px 1px 1px;
+    padding: 1px 0px 4px 150px;
+    align-items: center;
+    font-size: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    align-items: center;
+    width: 350px;
+}
+
+.container1 {
+    height: 30vh;
+    width: 100vw;
+    background-color: rgb(31, 31, 31);
+    display: flex;
+}
+.container2 {
+    height: 30vh;
+    width: 50vw;
+    background-color: rgb(31, 31, 31);
+    display: flex;
+}
+
+#con1 {
+    display: flex;
+    width: 50vw;
+}
+
+#con2 {
+    display: flex;
+    width: 50vw;
+}
+
+.itema {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        line-height: 160%;
+        align-items: start;
+}
+.itemaa {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        line-height: 160%;
+        align-items: end;
+}
+
+.itema1 {
+    margin: 0px 10px 1px 137px;
+    height: 30vh;
+    width: 404px;
+    font-size: 16px;
+    text-align: left;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.itema2 {
+    margin: 0px 10px 1px 137px;
+    height: 30vh;
+    width: 404px;
+    font-size: 16px;
+    text-align: left;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.ii {
+    padding: 40px 0px 0px 0px;
+}
+
+.fl {
+    display: flex;
+    height: 28px;
+    width: 55px;
+}
